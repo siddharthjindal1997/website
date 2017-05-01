@@ -108,7 +108,7 @@ Licence URI: http://www.os-templates.com/template-terms
         <article><i class="btmspace-30 fa fa-3x fa-resistance"></i>
           <h6 class="heading font-x1">Faculty Directory</h6>
           <p class="btmspace-30">Contact details of professors of Mathematics Department.</p>
-          <footer><a class="btn" href="templates/pages/faculty_directory.html">Get contacts </a></footer>
+          <footer><a class="btn" href="/templates/pages/faculty_directory.html">Get contacts </a></footer>
         </article>
       </li>
       <li class="one_third">
